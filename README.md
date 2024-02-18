@@ -1,4 +1,4 @@
-# project clone
+# playwright excel multiple sheet reader
 git clone https://github.com/hiroksarker/excel-reader.git
 
 # instruction
