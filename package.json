@@ -1,0 +1,17 @@
+{
+  "name": "playwright-excel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.41.2",
+    "@types/caseless": "^0.12.5",
+    "@types/node": "^20.11.19",
+    "@types/xlsx": "^0.0.36",
+    "xlsx": "^0.18.5"
+  }
+}
